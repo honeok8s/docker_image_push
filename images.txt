@@ -1,2 +1,1 @@
-django:1
-django:1.10
+mzz2017/v2raya:v2.2.5.8
