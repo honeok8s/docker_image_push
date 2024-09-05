@@ -1,3 +1,5 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 nginx:alpine3.19
+nginx:alpine3.20
 nginx:stable-alpine3.20
+nginx:stable-alpine3.19
