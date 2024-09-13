@@ -1,2 +1,2 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-idoop/zentao:18.9
+neo4j:5.23.0
