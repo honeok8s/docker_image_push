@@ -1,2 +1,4 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-neo4j:5.23.0
+redis:7.4.0-alpine3.20
+redis:7.4.0
+redis:6.2.14
