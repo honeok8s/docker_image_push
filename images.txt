@@ -2,6 +2,6 @@
 #bitnami/kafka:3.4
 #prom/prometheus:v2.54.1
 registry.k8s.io/metrics-server/metrics-server:v0.6.3
-gcr.io/google-containers/coredns:1.9.4
+docker.io/coredns/coredns:1.9.4
 docker.io/calico/cni:v3.25.1
 docker.io/calico/typha:v3.25.1
