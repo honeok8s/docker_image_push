@@ -7,6 +7,4 @@
 #docker.io/calico/typha:v3.25.1
 #docker.io/calico/kube-controllers:v3.25.1
 
-openjdk:8u131-jdk
-postgres:13.15
-postgres:12.19
+nginx:1.27.1-alpine3.20
