@@ -7,4 +7,5 @@
 #docker.io/calico/typha:v3.25.1
 #docker.io/calico/kube-controllers:v3.25.1
 
-apache/rocketmq:5.3.0
+louislam/dockge:1.4.2
+louislam/dockge:1
