@@ -7,4 +7,4 @@
 #docker.io/calico/typha:v3.25.1
 #docker.io/calico/kube-controllers:v3.25.1
 
-mysql:5.7.42
+homeassistant/home-assistant:2024.9.2
