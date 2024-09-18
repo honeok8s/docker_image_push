@@ -7,6 +7,4 @@
 #docker.io/calico/typha:v3.25.1
 #docker.io/calico/kube-controllers:v3.25.1
 
-mariadb:11.2.5
-mariadb:11.4.2
-mariadb:11.5.2
+nginx:1.15.12
