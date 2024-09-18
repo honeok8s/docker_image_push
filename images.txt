@@ -7,4 +7,6 @@
 #docker.io/calico/typha:v3.25.1
 #docker.io/calico/kube-controllers:v3.25.1
 
-nginx:1.27.1-alpine3.20-slim
+nginx:1.26.2-alpine3.20
+nginx:1.27.0-alpine3.19
+nginx:1.26.1-alpine3.19
