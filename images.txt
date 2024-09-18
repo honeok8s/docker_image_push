@@ -7,4 +7,4 @@
 #docker.io/calico/typha:v3.25.1
 #docker.io/calico/kube-controllers:v3.25.1
 
-homeassistant/home-assistant:2024.9.2
+apache/rocketmq:5.3.0
