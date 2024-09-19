@@ -8,4 +8,7 @@
 #docker.io/calico/kube-controllers:v3.25.1
 
 
-ghcr.io/dexidp/dex:v2.38.0
+apache/skywalking-ui:10.0.1
+apache/skywalking-oap-server:10.0.1
+busybox:1.36.1
+apache/skywalking-java-agent:9.3.0-java8
