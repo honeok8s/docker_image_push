@@ -7,4 +7,5 @@
 #docker.io/calico/typha:v3.25.1
 #docker.io/calico/kube-controllers:v3.25.1
 
-redis:7.0.15-alpine
+
+redis:7.0.15-alpine3.20
