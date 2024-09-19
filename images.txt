@@ -7,4 +7,4 @@
 #docker.io/calico/typha:v3.25.1
 #docker.io/calico/kube-controllers:v3.25.1
 
-nginx:1.15.12
+quay.io/argoproj/argocd:v2.12.3
