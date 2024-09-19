@@ -7,4 +7,4 @@
 #docker.io/calico/typha:v3.25.1
 #docker.io/calico/kube-controllers:v3.25.1
 
-maven:3.9
+golang:1.20.2
