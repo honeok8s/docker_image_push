@@ -6,4 +6,4 @@
 #docker.io/calico/cni:v3.25.1
 #docker.io/calico/typha:v3.25.1
 #docker.io/calico/kube-controllers:v3.25.1
-openjdk:8u342-jdk
+openjdk:8u212-jdk-alpine3.9
