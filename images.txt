@@ -6,4 +6,5 @@
 #docker.io/calico/cni:v3.25.1
 #docker.io/calico/typha:v3.25.1
 #docker.io/calico/kube-controllers:v3.25.1
-ubuntu:24.10
+portainer/portainer-ce:2.22.0
+portainer/portainer-ce:2.22.0-alpine
