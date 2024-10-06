@@ -7,6 +7,6 @@
 #docker.io/calico/typha:v3.25.1
 #docker.io/calico/kube-controllers:v3.25.1
 #####################################################################################################
-
-
-mysql:8.0.39-bookworm
+tomcat:9.0.95
+tomcat:9.0.95-jdk8
+tomcat:9.0.95-jre8
