@@ -8,15 +8,10 @@
 #docker.io/calico/kube-controllers:v3.25.1
 #####################################################################################################
 
-
-php:7.4.32
-php:7.4.32-fpm
-php:7.4.32-fpm-alpine3.16
-
-php:7.4.33
-php:7.4.33-fpm
-php:7.4.33-fpm-alpine3.16
-
-php:8.3.12
-php:8.3.12-fpm
-php:8.3.12-fpm-alpine3.20
+rancher/rancher:v2.8.1
+rancher/rancher:v2.8.2
+rancher/rancher:v2.8.3
+rancher/rancher:v2.8.4
+rancher/rancher:v2.8.5
+rancher/rancher:v2.9.1
+rancher/rancher:v2.9.2
