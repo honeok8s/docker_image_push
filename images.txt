@@ -7,12 +7,7 @@
 #docker.io/calico/typha:v3.25.1
 #docker.io/calico/kube-controllers:v3.25.1
 #####################################################################################################
-traefik:v2.11.9
-traefik:v2.11.11
-traefik:v3.1.4
-traefik:v3.1.5
-tomcat:7.0.63
-tomcat:7.0.63-jre8
+
 
 mysql:5.7.42
 mysql:5.7.43
